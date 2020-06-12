@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyEnglish</string>
+    <string name="add_words">Add_Words</string>
+    <string name="add">Add</string>
+    <string name="next">Next</string>
+    <string name="memorize">Memorize</string>
+    <string name="addtranlate">AddTranlate</string>
+    <string name="clear">Clear</string>
+</resources>
